@@ -55,6 +55,7 @@ For those who are Windows computer users already, these tasks can be done on Win
 </p>
 <br />
 
+
 <p>
 <img width="868" height="668" alt="image" src="https://github.com/user-attachments/assets/ef5bff4f-8bd9-4e99-b0fe-bde50f3ad1d6" />
 </p> 
@@ -62,5 +63,26 @@ For those who are Windows computer users already, these tasks can be done on Win
 <img width="984" height="692" alt="image" src="https://github.com/user-attachments/assets/48be315d-3cad-4a2c-a81b-5961f5fe4fa2" />
 </p>  
 <p> 
-idk
+The PC name will be the IP address of the computer that is going to be mirrored. A Friendly Name will need to be entered as well in order to easily detect which pc is which withing the Windows App. Once that is established a username and password is required in order to gain full access to the computer that will be remoted into.
 </p>
+<br />
+
+<p>  
+<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/6e9fa65c-cd83-4287-99e5-ed9fcb983ce0" />
+</p>
+<p>
+After the proper login information is entered access into the computer will be granted. As a Mac user I now have Windows OS features at my disposal without having to switch physical PCs.
+</p>
+<br />
+
+<p>  
+<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/83ba0fff-3ce5-48eb-98c7-3b5aa7f1bf3e" />
+</p>
+<p>  
+<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/1aec517c-65a5-437c-bf16-26cf16a3e0df" />
+</p>
+<p> 
+Once remoted into this virtual machine powershell can be accessed. If ipconfig /all is typed in it can be noticed that the information of the computer that is being mirrored shows up instead of the information of the physical PC the user is on.
+</p>
+<br />
+
