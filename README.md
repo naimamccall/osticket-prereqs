@@ -22,11 +22,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Step 1: Create a virtual machine or find a sperate machine with a unique IP address to remote into.
+
+- Step 2: Copy Unique IP address for remote desktop use.
+  
+- Step 3: Add a new PC within the remote desktop application.
+  
+- Step 4: Enter the IP address of machine being mirrored along with password and login.
+  
+- Step 5: Utilizing the OS that we just remoted into.
 
   
 
