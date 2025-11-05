@@ -35,7 +35,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 <img width="3004" height="1944" alt="image" src="https://github.com/user-attachments/assets/d8d69fde-f327-49d1-aae2-99576e76d53d" />
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+To utilize remote desktop you will need a unique IP address. I chose to use one through the Azure portal in order to experience the features of a Windows computer on my Macbook. Creating a virtual machine in Azure is as simple as asigning it a recourse group, region, zone, image (copy of OS, software and data that will be used in the virtual machine), along with a username and password.
 </p>
 <br />
 
