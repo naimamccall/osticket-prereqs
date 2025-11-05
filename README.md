@@ -51,6 +51,16 @@ Once a unique IP address has been established it is time to copy that IP address
 <img width="1538" height="1070" alt="image" src="https://github.com/user-attachments/assets/72e7c431-def1-4533-8a8e-c553c9d51c1c" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+For those who are Windows computer users already, these tasks can be done on Windows Remote Desktop. Mac users can complete these tasks via the Windows App. Once the application is opened, by clicking the + sign in the top right corner, the option to create a new PC will pop up. Clicking on that will prompt information to be entered, allowing the virtual machine to mirrored on the PC being created.
 </p>
 <br />
+
+<p>
+<img width="868" height="668" alt="image" src="https://github.com/user-attachments/assets/ef5bff4f-8bd9-4e99-b0fe-bde50f3ad1d6" />
+</p> 
+<p>
+<img width="984" height="692" alt="image" src="https://github.com/user-attachments/assets/48be315d-3cad-4a2c-a81b-5961f5fe4fa2" />
+</p>  
+<p> 
+idk
+</p>
