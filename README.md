@@ -2,23 +2,21 @@
  align="center"><img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/ef0bef94-1338-42c3-ad37-1b38df5f6e81" />
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+<h1>Remote Desktop - Setup and Utilization</h1>
+This tutorial outlines the setup and ultilization of Remote Desktop<br />
 
 
-<h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Internet Information Services (IIS)
+- Powershell
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Mac Os
 
 <h2>List of Prerequisites</h2>
 
