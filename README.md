@@ -2,7 +2,7 @@
  align="center"><img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/ef0bef94-1338-42c3-ad37-1b38df5f6e81" />
 </p>
 
-<h1>Remote Desktop - Setup and Utilization</h1>
+<h1>Virtual Machine Setup and Utilization</h1>
 This tutorial outlines the setup and ultilization of Remote Desktop<br />
 
 
@@ -16,19 +16,20 @@ This tutorial outlines the setup and ultilization of Remote Desktop<br />
 
 <h2>Operating Systems Used </h2>
 
-- Mac Os
+- Mac OS
+- Windows OS
 
 <h2>List of Prerequisites</h2>
 
-- Step 1: Create a virtual machine or find a sperate machine with a unique IP address to remote into.
+- Step 1: Create a virtual machine by entering appropriate configuration.
 
-- Step 2: Copy Unique IP address for remote desktop use.
+- Step 2: Locate IP address in newly created Virtual Machine.
   
-- Step 3: Add a new PC within the remote desktop application.
+- Step 3: Open remote desktop and add a new PC.
   
-- Step 4: Enter the IP address of machine being mirrored along with password and login.
+- Step 4: Enter the IP address from the created Virtual Machine.
   
-- Step 5: Utilizing the OS that we just remoted into.
+- Step 5: Inside the Virtual Machine ipconfig /all to show ip address of virtual machine instead of personal computer.
 
   
 
