@@ -38,7 +38,7 @@ This tutorial outlines the setup and ultilization of Remote Desktop<br />
 <p>
 <img width="3004" height="1944" alt="image" src="https://github.com/user-attachments/assets/d8d69fde-f327-49d1-aae2-99576e76d53d" />
 <p>
-To utilize remote desktop you will need a unique IP address. I chose to use one through the Azure portal in order to experience the features of a Windows computer on my Macbook. Creating a virtual machine in Azure is as simple as asigning it a recourse group, region, zone, image (copy of OS, software and data that will be used in the virtual machine), along with a username and password.
+ Azure allows users to utilize it's environments in versitile ways. One of them being virtual machine. Creating a virtual machine will require proper configuration to insure the system runs accuratly. Creating a recource group with a unique name within the account being used is the first step. 
 </p>
 <br />
 
