@@ -38,7 +38,7 @@ This tutorial outlines the setup and ultilization of Remote Desktop<br />
 <p>
 <img width="3004" height="1944" alt="image" src="https://github.com/user-attachments/assets/d8d69fde-f327-49d1-aae2-99576e76d53d" />
 <p>
- Azure allows users to utilize it's environments in versitile ways. One of them being virtual machine. Creating a virtual machine will require proper configuration to insure the system runs accuratly. Creating a recource group with a unique name within the account being used is the first step. 
+ Azure allows users to utilize it's environments in versitile ways. One of them being virtual machine. Creating a virtual machine will require proper configuration to insure the system runs accuratly. Creating a recource group with a unique name within the account being used is the first step. A virtual machine name must be established as well as a region and zone.
 </p>
 <br />
 
