@@ -38,7 +38,7 @@ This tutorial outlines the setup and ultilization of Remote Desktop<br />
 <p>
 <img width="3004" height="1944" alt="image" src="https://github.com/user-attachments/assets/d8d69fde-f327-49d1-aae2-99576e76d53d" />
 <p>
- Azure allows users to utilize it's environments in versitile ways. One of them being virtual machine. Creating a virtual machine will require proper configuration to insure the system runs accuratly. Creating a recource group with a unique name within the account being used is the first step. A virtual machine name must be established as well as a region and zone.
+ Azure allows users to utilize it's environments in versitile ways. One of them being virtual machine. Creating a virtual machine will require proper configuration to insure the system runs accuratly. Creating a recource group with a unique name within the account being used is the first step. A virtual machine name must be established as well as a region and zone. The image will determine what OS will be entered when using the virtual machine. For the sake of this lab Windows 11 will be selected. It is important to check of the box at the bottom of this section for confirmation.
 </p>
 <br />
 
@@ -46,7 +46,7 @@ This tutorial outlines the setup and ultilization of Remote Desktop<br />
 <img width="2024" height="964" alt="image" src="https://github.com/user-attachments/assets/2f3fe04f-f8d9-4eb1-9bce-a5ad21011f4a" />
 </p>
 <p>
-Once a unique IP address has been established it is time to copy that IP address so that it can be used for remote desktop.
+At this point a virtual machine is established and can be explored. It has its own IP address, seperate from the one being used on the physcial computer that created the virtual machine. To view and opperate within this seperate operating system the virtual machine will have to be started. Azure is a pay as you go service so virtual machine do not have to perpetually run, that way money can be save. Once the VM is running the IP address can be copied.
 </p>
 <br />
 
@@ -54,7 +54,7 @@ Once a unique IP address has been established it is time to copy that IP address
 <img width="1538" height="1070" alt="image" src="https://github.com/user-attachments/assets/72e7c431-def1-4533-8a8e-c553c9d51c1c" />
 </p>
 <p>
-For those who are Windows computer users already, these tasks can be done on Windows Remote Desktop. Mac users can complete these tasks via the Windows App. Once the application is opened, by clicking the + sign in the top right corner, the option to create a new PC will pop up. Clicking on that will prompt information to be entered, allowing the virtual machine to mirrored on the PC being created.
+Remote desktop is going to be used to enter the environment of this newly created virtual machine. After a PC is added and selected, the IP address copied from the previous step can be entered as the PC name, a friendly name will be added as well for the sake of easily differentiating PCs in remote desktop. The username and password that was entered when creating the virtual machine will be re entered in remote desktop as the last step before entering the environment.
 </p>
 <br />
 
